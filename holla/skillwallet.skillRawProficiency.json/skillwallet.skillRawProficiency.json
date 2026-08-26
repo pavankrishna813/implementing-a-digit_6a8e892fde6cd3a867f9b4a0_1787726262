@@ -1,0 +1,1050 @@
+[{
+  "_id": {
+    "$oid": "6a8c29150bba21703f99581d"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99580b"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:53.989Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.153Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.229Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.229Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.229Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29150bba21703f99581e"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99580c"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:53.997Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.158Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.234Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.234Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.234Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f99581f"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99580d"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.003Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.162Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.238Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.238Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.238Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995820"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99580e"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.010Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.166Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.242Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.242Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.242Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995821"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99580f"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.016Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.170Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.246Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.246Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.246Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995822"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995810"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.022Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.174Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.250Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.250Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.250Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995823"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995811"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.029Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.178Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 80
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 75,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.254Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 17,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.254Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 80,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.254Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995824"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995812"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.035Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.183Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 48
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.258Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.258Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 48,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.258Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995825"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995813"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.041Z"
+      }
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:30:19.509Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995826"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995814"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.046Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.191Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 48
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.266Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.266Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 48,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.266Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995827"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995815"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.052Z"
+      }
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:30:19.521Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995828"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995816"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.058Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.200Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 48
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.274Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.274Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 48,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.274Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f995829"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995817"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.064Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.204Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 48
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 45,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.278Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.278Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 48,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.278Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f99582a"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995818"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.070Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.208Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 24
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.282Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.282Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 24,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.282Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f99582b"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f995819"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.077Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.212Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 24
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.286Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.286Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 24,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.286Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f99582c"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99581a"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.084Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.216Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 24
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.290Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.290Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 24,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.290Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f99582d"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99581b"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.090Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.220Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 24
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.294Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.294Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 24,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.294Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c29160bba21703f99582e"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c29150bba21703f99581c"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "lab",
+      "moduleId": "6a8c1626f98c49cbd775726c",
+      "skillRawProficiencyValue": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:20:54.097Z"
+      }
+    },
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:43:53.224Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 24
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "lab",
+      "skillRawProficiency": 23,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.298Z"
+      }
+    },
+    {
+      "type": "project",
+      "skillRawProficiency": 5,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.298Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 24,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.298Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c2e79bc69dbf6c0995889"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c2e79bc69dbf6c0995887"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 10
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 48
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "project",
+      "skillRawProficiency": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.262Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 48,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.262Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a8c2e79bc69dbf6c099588a"
+  },
+  "userId": {
+    "$oid": "6a8c2572c7e87de8639957e1"
+  },
+  "skillId": {
+    "$oid": "6a8c2e79bc69dbf6c0995888"
+  },
+  "skillRawProficiency": [
+    {
+      "type": "project",
+      "moduleId": "6a8c1678f98c49cbd7757279",
+      "skillRawProficiencyValue": 10
+    },
+    {
+      "type": "assessment",
+      "moduleId": "6a8c16f14897fbd0af757344",
+      "skillRawProficiencyValue": 48
+    }
+  ],
+  "skillRawProficiencyTypeWise": [
+    {
+      "type": "project",
+      "skillRawProficiency": 10,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.270Z"
+      }
+    },
+    {
+      "type": "assessment",
+      "skillRawProficiency": 48,
+      "updatedAt": {
+        "$date": "2026-08-24T11:56:41.270Z"
+      }
+    }
+  ]
+}]
